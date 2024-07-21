@@ -6,4 +6,18 @@
         \n1、监听音量变化，当音量低于 100% 时调整到 100%；
         \n2、监听通话状态，当通话接通时自动免提。
     </string>
+
+    <string name="step_ignore_battery">忽略电池优化</string>
+    <string name="step_accessibility">前往无障碍设置</string>
+    <string name="step_notify_priority">允许修改通知策略</string>
+    <string name="step_permission">申请必要权限</string>
+    <string name="step_permission_granted">已授权所有必要权限</string>
+    <string name="step_permission_not_granted">未授权所有必要权限，请前往应用详情页手动授予</string>
+
+    <string name="notify_channel">默认通知频道</string>
+
+    <string name="service_prepare">CallPilot 未启动</string>
+    <string name="service_not_running">CallPilot 已停止</string>
+    <string name="service_running">CallPilot 正在运行</string>
+    <string name="service_error">CallPilot 异常，请尝试重启无障碍服务</string>
 </resources>
